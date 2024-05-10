@@ -1,0 +1,11 @@
+device,status,location,last_operative,failure_rate,time
+device_0,operativo,Office,2024-05-08 01:14:30,0,2024-05-10 13:14:30
+device_1,inactivo,Data Center 2,2024-05-09 15:14:30,0,2024-05-10 13:14:30
+device_2,fallando,Office,2024-05-09 05:14:30,0.18625311186327864,2024-05-10 13:14:30
+device_3,inactivo,Remote Site,2024-05-10 05:14:30,0,2024-05-10 13:14:30
+device_4,operativo,Office,2024-05-09 20:14:30,0,2024-05-10 13:14:30
+device_5,operativo,Remote Site,2024-05-09 00:14:30,0,2024-05-10 13:14:30
+device_6,inactivo,Data Center 2,2024-05-09 01:14:30,0,2024-05-10 13:14:30
+device_7,operativo,Data Center 1,2024-05-10 04:14:30,0,2024-05-10 13:14:30
+device_8,inactivo,Office,2024-05-07 20:14:30,0,2024-05-10 13:14:30
+device_9,operativo,Office,2024-05-09 20:14:30,0,2024-05-10 13:14:30
